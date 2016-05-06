@@ -1,0 +1,9 @@
+c:\users\mrwilkin\documents\visual studio 2013\Projects\MenusEtc\MenusEtc\bin\Debug\MenusEtc.exe.config
+c:\users\mrwilkin\documents\visual studio 2013\Projects\MenusEtc\MenusEtc\bin\Debug\MenusEtc.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\MenusEtc\MenusEtc\bin\Debug\MenusEtc.pdb
+c:\users\mrwilkin\documents\visual studio 2013\Projects\MenusEtc\MenusEtc\obj\Debug\MenusEtc.csprojResolveAssemblyReference.cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\MenusEtc\MenusEtc\obj\Debug\MenusEtc.frmMenus.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\MenusEtc\MenusEtc\obj\Debug\MenusEtc.Properties.Resources.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\MenusEtc\MenusEtc\obj\Debug\MenusEtc.csproj.GenerateResource.Cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\MenusEtc\MenusEtc\obj\Debug\MenusEtc.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\MenusEtc\MenusEtc\obj\Debug\MenusEtc.pdb

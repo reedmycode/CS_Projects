@@ -1,0 +1,9 @@
+c:\users\mrwilkin\documents\visual studio 2013\Projects\Groceries\Groceries\bin\Debug\Groceries.exe.config
+c:\users\mrwilkin\documents\visual studio 2013\Projects\Groceries\Groceries\bin\Debug\Groceries.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\Groceries\Groceries\bin\Debug\Groceries.pdb
+c:\users\mrwilkin\documents\visual studio 2013\Projects\Groceries\Groceries\obj\Debug\Groceries.csprojResolveAssemblyReference.cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\Groceries\Groceries\obj\Debug\Groceries.frmGrocery.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\Groceries\Groceries\obj\Debug\Groceries.Properties.Resources.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\Groceries\Groceries\obj\Debug\Groceries.csproj.GenerateResource.Cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\Groceries\Groceries\obj\Debug\Groceries.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\Groceries\Groceries\obj\Debug\Groceries.pdb

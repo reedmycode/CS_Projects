@@ -1,0 +1,9 @@
+c:\users\mrwilkin\documents\visual studio 2013\Projects\CommissionCalc\CommissionCalc\bin\Debug\CommissionCalc.exe.config
+c:\users\mrwilkin\documents\visual studio 2013\Projects\CommissionCalc\CommissionCalc\bin\Debug\CommissionCalc.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\CommissionCalc\CommissionCalc\bin\Debug\CommissionCalc.pdb
+c:\users\mrwilkin\documents\visual studio 2013\Projects\CommissionCalc\CommissionCalc\obj\Debug\CommissionCalc.csprojResolveAssemblyReference.cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\CommissionCalc\CommissionCalc\obj\Debug\CommissionCalc.CommissionCalc.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\CommissionCalc\CommissionCalc\obj\Debug\CommissionCalc.Properties.Resources.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\CommissionCalc\CommissionCalc\obj\Debug\CommissionCalc.csproj.GenerateResource.Cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\CommissionCalc\CommissionCalc\obj\Debug\CommissionCalc.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\CommissionCalc\CommissionCalc\obj\Debug\CommissionCalc.pdb

@@ -1,0 +1,9 @@
+c:\users\mrwilkin\documents\visual studio 2013\Projects\Favorites\Favorites\bin\Debug\Favorites.exe.config
+C:\Users\mrwilkin\Documents\Visual Studio 2013\Projects\Favorites\Favorites\bin\Debug\Favorites.exe
+C:\Users\mrwilkin\Documents\Visual Studio 2013\Projects\Favorites\Favorites\bin\Debug\Favorites.pdb
+C:\Users\mrwilkin\Documents\Visual Studio 2013\Projects\Favorites\Favorites\obj\Debug\Favorites.csprojResolveAssemblyReference.cache
+C:\Users\mrwilkin\Documents\Visual Studio 2013\Projects\Favorites\Favorites\obj\Debug\Favorites.Properties.Resources.resources
+C:\Users\mrwilkin\Documents\Visual Studio 2013\Projects\Favorites\Favorites\obj\Debug\Favorites.csproj.GenerateResource.Cache
+C:\Users\mrwilkin\Documents\Visual Studio 2013\Projects\Favorites\Favorites\obj\Debug\Favorites.exe
+C:\Users\mrwilkin\Documents\Visual Studio 2013\Projects\Favorites\Favorites\obj\Debug\Favorites.pdb
+C:\Users\mrwilkin\Documents\Visual Studio 2013\Projects\Favorites\Favorites\obj\Debug\Favorites.frmFav.resources
