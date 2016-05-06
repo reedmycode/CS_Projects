@@ -1,0 +1,9 @@
+c:\users\mrwilkin\documents\visual studio 2013\Projects\TimeSpace\TimeSpace\bin\Debug\TimeSpace.exe.config
+c:\users\mrwilkin\documents\visual studio 2013\Projects\TimeSpace\TimeSpace\obj\Debug\TimeSpace.csprojResolveAssemblyReference.cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\TimeSpace\TimeSpace\obj\Debug\TimeSpace.FrmTime.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\TimeSpace\TimeSpace\obj\Debug\TimeSpace.Properties.Resources.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\TimeSpace\TimeSpace\obj\Debug\TimeSpace.csproj.GenerateResource.Cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\TimeSpace\TimeSpace\bin\Debug\TimeSpace.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\TimeSpace\TimeSpace\bin\Debug\TimeSpace.pdb
+c:\users\mrwilkin\documents\visual studio 2013\Projects\TimeSpace\TimeSpace\obj\Debug\TimeSpace.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\TimeSpace\TimeSpace\obj\Debug\TimeSpace.pdb

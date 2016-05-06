@@ -1,0 +1,9 @@
+c:\users\mrwilkin\documents\visual studio 2013\Projects\FileIt\FileIt\bin\Debug\FileIt.exe.config
+c:\users\mrwilkin\documents\visual studio 2013\Projects\FileIt\FileIt\bin\Debug\FileIt.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\FileIt\FileIt\bin\Debug\FileIt.pdb
+c:\users\mrwilkin\documents\visual studio 2013\Projects\FileIt\FileIt\obj\Debug\FileIt.csprojResolveAssemblyReference.cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\FileIt\FileIt\obj\Debug\FileIt.fileIt.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\FileIt\FileIt\obj\Debug\FileIt.Properties.Resources.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\FileIt\FileIt\obj\Debug\FileIt.csproj.GenerateResource.Cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\FileIt\FileIt\obj\Debug\FileIt.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\FileIt\FileIt\obj\Debug\FileIt.pdb

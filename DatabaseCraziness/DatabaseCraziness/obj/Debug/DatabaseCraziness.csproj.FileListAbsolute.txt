@@ -1,0 +1,10 @@
+c:\users\mrwilkin\documents\visual studio 2013\Projects\DatabaseCraziness\DatabaseCraziness\bin\Debug\DatabaseCraziness.exe.config
+c:\users\mrwilkin\documents\visual studio 2013\Projects\DatabaseCraziness\DatabaseCraziness\bin\Debug\L10 Database.mdb
+c:\users\mrwilkin\documents\visual studio 2013\Projects\DatabaseCraziness\DatabaseCraziness\bin\Debug\DatabaseCraziness.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\DatabaseCraziness\DatabaseCraziness\bin\Debug\DatabaseCraziness.pdb
+c:\users\mrwilkin\documents\visual studio 2013\Projects\DatabaseCraziness\DatabaseCraziness\obj\Debug\DatabaseCraziness.csprojResolveAssemblyReference.cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\DatabaseCraziness\DatabaseCraziness\obj\Debug\DatabaseCraziness.Form1.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\DatabaseCraziness\DatabaseCraziness\obj\Debug\DatabaseCraziness.Properties.Resources.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\DatabaseCraziness\DatabaseCraziness\obj\Debug\DatabaseCraziness.csproj.GenerateResource.Cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\DatabaseCraziness\DatabaseCraziness\obj\Debug\DatabaseCraziness.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\DatabaseCraziness\DatabaseCraziness\obj\Debug\DatabaseCraziness.pdb
