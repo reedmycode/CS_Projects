@@ -1,0 +1,13 @@
+c:\users\mrwilkin\documents\visual studio 2013\Projects\BurgerJoint\BurgerJoint\bin\Debug\BurgerJoint.exe.config
+c:\users\mrwilkin\documents\visual studio 2013\Projects\BurgerJoint\BurgerJoint\bin\Debug\BurgerJoint.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\BurgerJoint\BurgerJoint\bin\Debug\BurgerJoint.pdb
+c:\users\mrwilkin\documents\visual studio 2013\Projects\BurgerJoint\BurgerJoint\obj\Debug\BurgerJoint.csprojResolveAssemblyReference.cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\BurgerJoint\BurgerJoint\obj\Debug\BurgerJoint.Form1.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\BurgerJoint\BurgerJoint\obj\Debug\BurgerJoint.Properties.Resources.resources
+c:\users\mrwilkin\documents\visual studio 2013\Projects\BurgerJoint\BurgerJoint\obj\Debug\BurgerJoint.csproj.GenerateResource.Cache
+c:\users\mrwilkin\documents\visual studio 2013\Projects\BurgerJoint\BurgerJoint\obj\Debug\BurgerJoint.exe
+c:\users\mrwilkin\documents\visual studio 2013\Projects\BurgerJoint\BurgerJoint\obj\Debug\BurgerJoint.pdb
+C:\Users\mrwilkin\Documents\Visual Studio 2013\Projects\BurgerJoint\BurgerJoint\obj\Debug\BurgerJoint.SplashScreen.resources
+C:\Users\MRWILKIN\Source\Repos\CS_Projects\BurgerJoint\BurgerJoint\bin\Debug\BurgerJoint.exe.config
+C:\Users\MRWILKIN\Source\Repos\CS_Projects\BurgerJoint\BurgerJoint\obj\Debug\BurgerJoint.exe
+C:\Users\MRWILKIN\Source\Repos\CS_Projects\BurgerJoint\BurgerJoint\obj\Debug\BurgerJoint.pdb
